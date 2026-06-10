@@ -1,0 +1,38 @@
+[
+    {
+        "date": "01-11-2026",
+        "category": "bills",
+        "amount": 1200.0,
+        "description": "my current bill is too high"
+    },
+    {
+        "date": "03-11-2026",
+        "category": "current",
+        "amount": 5000.0,
+        "description": "asdfghjkl"
+    },
+    {
+        "date": "02-04-2026",
+        "category": "current",
+        "amount": 5000.0,
+        "description": "current bill of this month"
+    },
+    {
+        "date": "02-11-2026",
+        "category": "current",
+        "amount": 50000.0,
+        "description": "asdfghjkl"
+    },
+    {
+        "date": "30-05-2026",
+        "category": "grocery",
+        "amount": 800000.0,
+        "description": "asdfghjkl"
+    },
+    {
+        "date": "01-12-2026",
+        "category": "current bill",
+        "amount": 2500.0,
+        "description": "decemember month current bill is high"
+    }
+]
